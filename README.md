@@ -9,6 +9,10 @@ Welcome to my repository for the **Cisco Certified Support Technician (CCST) Net
   * Network Security
   * IP Addressing
   * Routing and Switching
+  * Endpoint Security
+  * Network Defense
+  * Cyber Threat Management
+  * 
 
 ## 📂 Repository Structure
 * `/Labs`: Contains `.pkt` topology files.
